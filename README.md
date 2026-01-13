@@ -1,6 +1,6 @@
 # Brand-Level Fashion Trend Analysis (Merchandising & Content Strategy)
 
-This repo is an **industry-style analytics project** built to showcase:
+This repo is an **analytics project** built to showcase:
 - **Python + SQL pipelines** to aggregate weekly **traffic → add-to-cart → conversion** for **40+ brands**, segmented by **category, gender, region**
 - **Brand-specific trend indices** (momentum + acceleration) to identify **emerging styles** (silhouettes, colors, categories) **4–6 weeks earlier** than a naive baseline, plus **early fatigue** flags
 - **Tableau-ready extracts** and a dashboard spec for merchandising decisions (**sell-through**, **discount dependency**, **return rate**)
@@ -68,10 +68,3 @@ Connect Tableau to:
 - `exports/tableau/*.csv` (fastest)
 - or `warehouse/warehouse.duckdb` (direct connection)
 
----
-
-## Resume-ready bullets (copy/paste)
-
-- Built Python and SQL pipelines to aggregate and track weekly traffic, add-to-cart, and conversion metrics for 40+ key brands (e.g., Off-White, Acne Studios, Jacquemus), segmented by category, gender, and region.  
-- Developed brand-specific trend indices using time-series analysis to identify emerging styles (silhouettes, colors, categories) 4–6 weeks earlier than standard reporting, highlighting early momentum and early fatigue.  
-- Created Tableau-ready datasets and dashboard specifications comparing performance across brands and collections (sell-through, discount dependency, return rate), enabling merchandising to adjust buy depth and prioritize high-potential brands.
